@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Md Jonaed Joshim<br>I'm a 3rd-year BBA student majoring in Accounting, but my passion lies in web development and cybersecurity.<br><br>- 🌱 Currently learning: React, React Router, Firebase<br>- ✅ Comfortable with: HTML, CSS, JavaScript, Tailwind, React<br>- 🎯 Next goals: Learn Backend Development (Node.js, Express, MongoDB)<br>- 🎓 Planning to learn with Phitron for deeper coding & DSA knowledge<br>- 🔐 Dreaming to become a skilled Ethical Hacker / Cybersecurity Specialist someday.
+👋 Hi, I'm Md Jonaed Joshim<br>I'm a 3rd-year BBA student majoring in Accounting, but my passion lies in web development and cybersecurity.<br><br>- 🌱 Currently learning: React, React Router, Firebase<br>- ✅ Comfortable with: HTML, CSS, JavaScript, Tailwind, React<br>- <br>- 🎓 Started learning with Phitron for deeper coding & DSA knowledge<br>- 🔐 Dreaming to become a skilled Ethical Hacker / Cybersecurity Specialist someday.
 
 
 ## 🌐 Socials:
