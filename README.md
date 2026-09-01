@@ -13,13 +13,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
 ## 💫 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="hacker gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="programmer coding gif" />
 
 I'm a 3rd-year **BBA student majoring in Accounting**, but my real passion lies in **software development, problem solving, and cybersecurity**.
 
@@ -74,23 +70,23 @@ I'm a bit of a perfectionist. I can spend way too much time trying to make somet
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=jonaedjoshim&theme=radical&hide_border=true&include_all_commits=false&count_private=true&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jonaedjoshim&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 
-<img src="https://streak-stats.demolab.com/?user=jonaedjoshim&theme=radical&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=jonaedjoshim&theme=radical&hide_border=true&timezone=Asia/Dhaka" alt="streak stats"/>
 
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jonaedjoshim&theme=radical&no-frame=true&row=1&column=7"/>
-</div>
-
-<br/>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
