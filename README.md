@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/jonaed-joshim/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mdjonaedjoshim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 
-<img src="https://profile-counter.glitch.me/jonaedjoshim/count.svg" alt="visitor count" />
+<img src="https://komarev.com/ghpvc/?username=jonaedjoshim&label=Profile%20Views&color=00c4cc&style=flat" alt="visitor count" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/main/assets/matrix.svg" alt="coding gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="hacker gif" />
 
 I'm a 3rd-year **BBA student majoring in Accounting**, but my real passion lies in **software development, problem solving, and cybersecurity**.
 
