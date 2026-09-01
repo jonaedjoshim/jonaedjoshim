@@ -1,6 +1,31 @@
---- Assalamu Alaikum, I'm Md. Jonaed Joshim<br><br>
-💫 About Me:<br>
-<br>I'm a 3rd-year BBA student majoring in Accounting, but my real passion lies in **software development, problem solving, and cybersecurity**.<br><br>I'm currently exploring modern web development with **React and TypeScript**, while strengthening my programming fundamentals and problem-solving skills through **C++ and Data Structures**.<br><br> 🌱 What I'm currently up to<br><br> ⚛️ Learning **React & TypeScript** through Programming Hero<br> 🧩 Practicing **Data Structures & Problem Solving with C++** through Phitron<br> 🔐 Exploring **Cybersecurity** and building my foundation for a future career in the field<br> 🖥️ Interested in **Backend Development** as an alternative path within software development<br> 🎯 Working toward becoming a strong problem solver and eventually a **Cybersecurity Specialist**<br><br> 💬 Ask me about<br><br> 🔐 Cybersecurity & Ethical Hacking concepts<br> 🧠 Programming fundamentals & problem solving<br> ⚛️ React & TypeScript — as I'm actively learning them<br><br> ⚡ Fun fact<br><br>I'm a bit of a perfectionist. I can spend way too much time trying to make something perfect... and then, if the deadline arrives before it's perfect, I somehow end up submitting the most chaotic version possible. 😂<br><br>
+# Assalamu Alaikum 👋
+
+# I'm **Md. Jonaed Joshim**
+
+### 💫 About Me
+
+I'm a 3rd-year BBA student majoring in Accounting, but my real passion lies in **software development, problem solving, and cybersecurity**.
+
+I'm currently exploring modern web development with **React and TypeScript**, while strengthening my programming fundamentals and problem-solving skills through **C++ and Data Structures**.
+
+### 🌱 What I'm Currently Up To
+
+* ⚛️ Learning **React & TypeScript** through Programming Hero
+* 🧩 Practicing **Data Structures & Problem Solving with C++** through Phitron
+* 🔐 Exploring **Cybersecurity** and building a strong foundation for a future career in the field
+* 🖥️ Developing an interest in **Backend Development**
+* 🎯 Working toward becoming a strong problem solver and, eventually, a **Cybersecurity Specialist**
+
+### 💬 Ask Me About
+
+* 🔐 **Cybersecurity & Ethical Hacking concepts**
+* 🧠 **Programming fundamentals & problem solving**
+* 💻 **My journey into software development and cybersecurity**
+
+### ⚡ Fun Fact
+
+I'm a bit of a perfectionist. I can spend way too much time trying to make something perfect... and then, when the deadline arrives before it's perfect, I somehow end up submitting the most chaotic version possible. 😂
+
 
 
  🌐 Socials:
