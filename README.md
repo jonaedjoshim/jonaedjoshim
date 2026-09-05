@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7289DA,100:00C4CC&height=220&section=header&text=Md.%20Jonaed%20Joshim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Assalamu%20Alaikum%20%F0%9F%91%8B%20|%20Aspiring%20Cybersecurity%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
+
 <a href="https://discord.gg/mdjonaedjoshim"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 <a href="https://www.facebook.com/md.jonaed.hossain.2025"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/jonaed-joshim/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
