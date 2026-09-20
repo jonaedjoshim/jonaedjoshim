@@ -48,7 +48,7 @@ I'm currently exploring modern web development with **React and TypeScript**, wh
 
 ## ⚡ Fun Fact
 
-I'm a bit of a perfectionist. I can spend way too much time trying to make something perfect... and then, when the deadline arrives before it's perfect, I somehow end up submitting the most chaotic version possible. 😂
+I'm a bit of a perfectionist. I can spend way too much time trying to make something perfect... and then, when the deadline arrives before it's perfect, I somehow end up submitting the most chaotic version possible. 😂😂
 
 <br/>
 
